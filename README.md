@@ -19,7 +19,7 @@
 
 **4-JavaScript**
 ```
-![Algorithm schema](./images/schema.jpg)
+![Algorithm schema](https://github.com/wijdankh/robotArmBase-Task2/blob/main/%D8%B5%D9%88%D8%B1%D8%A9%20%D9%88%D8%A7%D8%AC%D9%87%D8%A9%20mobile%20web%20view.jpg)
 <hr>
 
 اشتغلنا سوا على برنامج التيم , اسماء الطالبات 
